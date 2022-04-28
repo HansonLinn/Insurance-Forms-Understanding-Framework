@@ -1,6 +1,6 @@
 # Insurance-Forms-Understanding-Framework
 
-# The entire framework is detailed in the following table of contents：
+### The entire framework is detailed in the following table of contents：
 
 1 Form classification  
   1.1 Data set acquisition  
