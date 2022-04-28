@@ -9,13 +9,13 @@
   >> 1.3 Training test  
   >> 1.4 Package deployment  
 > 2 Form content recognition  
->> 2.1 Form frame segmentation  
->>> 2.1.1 Data set acquisition  
->>> 2.1.2 Training set construction  
->>> 2.1.3 Segmentation model construction  
->>> 2.1.4 Complementary model construction  
->>> 2.1.5 Training test  
->>> 2.1.6 Packaging and deployment  
+  >> 2.1 Form frame segmentation  
+    >>> 2.1.1 Data set acquisition  
+    >>> 2.1.2 Training set construction  
+    >>> 2.1.3 Segmentation model construction  
+    >>> 2.1.4 Complementary model construction  
+    >>> 2.1.5 Training test  
+    >>> 2.1.6 Packaging and deployment  
 >> 2.2 Handwritten digit recognition  
 >>> 2.2.1 Data set acquisition  
 >>> 2.2.2 Training set construction  
