@@ -2,7 +2,7 @@
 
 # The entire framework is detailed in the following table of contents：
 
-1 Form classification
+1 Form classification \<br>
   1.1 Data set acquisition
   1.2 Training set construction
   1.2 Classification model construction
