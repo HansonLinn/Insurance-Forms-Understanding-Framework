@@ -16,7 +16,7 @@
     * 2.1.4 Repair model construction  
     * 2.1.5 Train and test  
     * 2.1.6 Packaging and deployment  
-  * 2.2 Handwritten digit recognition  
+  * 2.2 Handwritten number recognition  
     * 2.2.1 Dataset acquisition  
     * 2.2.2 Training set construction  
     * 2.2.3 Recognition model construction  
