@@ -28,5 +28,3 @@
     * 2.3.3 Recognition model construction  
     * 2.3.4 Train and test  
     * 2.3.5 Packaging and deployment  
-
-Translated with www.DeepL.com/Translator (free version)
