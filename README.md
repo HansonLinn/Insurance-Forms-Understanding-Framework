@@ -1,5 +1,7 @@
 # Insurance-Forms-Understanding-Framework
 
+## The framework is developed and maintained by Jiangsu Startdima Data Processing Co., Ltd.
+
 ### The detailed directory of the entire framework is as follows:
 
 * 1 Form classification  
