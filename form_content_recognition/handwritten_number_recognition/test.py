@@ -41,7 +41,7 @@ class ImageFolder(data.Dataset):
         """Returns the total number of font files."""
         return len(self.image_paths)
 
-#将下载的MNIST数据导入到dataloader中
+
 def get_loader(root,batch_size):
     dataset = ImageFolder(root=root)
     data_loader = data.DataLoader(dataset=dataset,
@@ -70,10 +70,10 @@ if __name__ == '__main__':
         total_correct += pred1.eq(labels.view_as(pred1)).sum()
         length += images.size(0)
         for j in range(np.shape(images)[0]):
-            if not os.path.exists('./save_num/' + str(pred[j])):
-                os.makedirs('./save_num/' + str(pred[j]))
+            if not os.path.exists('./save_num/' + str(pred1[j])):
+                os.makedirs('./save_num/' + str(pred1[j]))
             torchvision.utils.save_image(torch.from_numpy(np.array(images[j,:,:,:])),
-                                         os.path.join('./save_num/', str(pred[j]),'%d_%s_%s.png' % (d,np.array(labels[j]), str(pred1[j]))))
+                                         os.path.join('./save_num/', str(pred1[j]),'%d_%s_%s.png' % (d,np.array(labels[j]), str(pred1[j]))))
             d += 1
     print(np.array(total_correct/length))
 
