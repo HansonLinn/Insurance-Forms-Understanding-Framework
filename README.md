@@ -13,14 +13,14 @@
     * 2.1.1 Dataset acquisition  
     * 2.1.2 Training set construction  
     * 2.1.3 Segmentation model construction  
-    * 2.1.4 Complementary model construction  
+    * 2.1.4 Repair model construction  
     * 2.1.5 Train and test  
     * 2.1.6 Packaging and deployment  
   * 2.2 Handwritten digit recognition  
     * 2.2.1 Dataset acquisition  
     * 2.2.2 Training set construction  
     * 2.2.3 Recognition model construction  
-    * 2.2.4 Training test  
+    * 2.2.4 Train and test  
     * 2.1.6 Packaging and deployment  
   * 2.3 Handwritten Chinese character recognition  
     * 2.3.1 Dataset acquisition  
